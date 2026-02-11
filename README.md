@@ -25,7 +25,7 @@
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/deepak-shekhar/
-- Email: (Add your email here)
+- Email: deepakshekhar1904@gmail.com
 
 ---
 
