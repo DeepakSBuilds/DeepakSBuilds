@@ -17,9 +17,8 @@
 
 ## 📂 Projects
 - AI-Powered Resume Screening System  
-- Stock Market Prediction  
-- Hepatitis Disease Prediction  
-- CivicEye – Grievance Redressal System  
+- Stock Market Prediction
+- - CivicEye – Grievance Redressal System  
 
 ---
 
