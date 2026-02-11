@@ -18,7 +18,7 @@
 ## 📂 Projects
 - AI-Powered Resume Screening System  
 - Stock Market Prediction
-- - CivicEye – Grievance Redressal System  
+- CivicEye – Grievance Redressal System  
 
 ---
 
