@@ -1,7 +1,9 @@
 # Hi👋, I'm Deepak
-### Computer Science & Engineering Student | AI & Full-Stack Developer
+### Computer Science & Engineering Student | Former AIML Developer Intern
 
-I am a Computer Science student based in Bengaluru with hands-on experience in AI, Machine Learning, and Full-Stack Web Development. I focus on building scalable web applications and intelligent systems that solve real-world problems.
+I am a CSE student with professional experience as an AIML Developer, I specialize in transforming complex data into scalable, real-world applications.
+
+Open to internship and full-time opportunities in Software Engineering.
 
 ---
 
