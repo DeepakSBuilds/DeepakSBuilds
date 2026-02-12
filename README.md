@@ -19,7 +19,7 @@ Ants Applied DataScience Pvt Ltd
 ## 🛠️ Technical Skills
 
 ### 💻 Programming
-Python | Java | C | JavaScript
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  | Java | C | JavaScript
 
 ### 🌐 Web Development
 Django | HTML | CSS | Bootstrap
