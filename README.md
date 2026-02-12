@@ -1,7 +1,7 @@
 # Hi👋, I'm Deepak
-### Computer Science & Engineering Student | Former AIML Developer Intern
+### Computer Science & Engineering Student
 
-I am a CSE student with professional experience as an AIML Developer, I specialize in transforming complex data into scalable, real-world applications.
+CSE student with professional experience as an AIML Developer, I specialize in transforming complex data into scalable, real-world applications.
 
 Open to internship and full-time opportunities in Software Engineering.
 
