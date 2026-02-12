@@ -87,18 +87,23 @@ End-to-end AI system for resume ranking and job matching.
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/deepak-shekhar/)  
-Email: deepakshekhar1904@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Shekhar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-shekhar/)
+
+[![Email](https://img.shields.io/badge/Email-deepakshekhar1904%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakshekhar1904@gmail.com) 
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DeepakSBuilds&show_icons=true&theme=dark&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakSBuilds&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepakSBuilds&show_icons=true&theme=dark&count_private=true" />
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=DeepakSBuilds&theme=dark" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakSBuilds&layout=compact&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DeepakSBuilds&theme=dark" />
+</p>
+
